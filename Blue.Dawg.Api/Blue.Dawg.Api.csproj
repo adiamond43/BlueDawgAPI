@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Blue.Dawg.Domain\Blue.Dawg.Domain.csproj" />
+    <ProjectReference Include="..\Blue.Dawg.Data\Blue.Dawg.Data.csproj" />
   </ItemGroup>
 
 </Project>
