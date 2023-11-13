@@ -1,1 +1,1 @@
-GET http://localhost:5198/swagger
+GET http://localhost:5198/[controller]/1234
