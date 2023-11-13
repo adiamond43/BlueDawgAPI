@@ -32,5 +32,11 @@ namespace Blue.Dawg.Api.Controllers
         
         return Ok(item);
     }
+
+    [HttpPost]
+    public IActionResult Post(Item item)
+    {
+        return Created("/[controller]/42", item);
+    }
     }
 }
