@@ -55,5 +55,11 @@ namespace Blue.Dawg.Api.Controllers
     {
         return NoContent();
     }
+
+    [HttpDelete("{id:int}")]
+    public IActionResult Delte(int id)
+    {
+        return NoContent();
+    }
     }
 }
