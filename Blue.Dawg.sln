@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blue.Dawg.Api", "Blue.Dawg.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blue.Dawg.Domain", "Blue.Dawg.Domain\Blue.Dawg.Domain.csproj", "{5F6F4F5E-F402-470A-AC89-CB20D8E4FB9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blue.Dog.Data", "Blue.Dog.Data\Blue.Dog.Data.csproj", "{B566DFCE-90F9-47A9-9064-0EA43CAF5802}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{5F6F4F5E-F402-470A-AC89-CB20D8E4FB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F6F4F5E-F402-470A-AC89-CB20D8E4FB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F6F4F5E-F402-470A-AC89-CB20D8E4FB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B566DFCE-90F9-47A9-9064-0EA43CAF5802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B566DFCE-90F9-47A9-9064-0EA43CAF5802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B566DFCE-90F9-47A9-9064-0EA43CAF5802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B566DFCE-90F9-47A9-9064-0EA43CAF5802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
