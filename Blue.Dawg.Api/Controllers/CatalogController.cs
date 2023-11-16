@@ -49,5 +49,11 @@ namespace Blue.Dawg.Api.Controllers
         return Ok(item);
 
     }
+
+    [HttpPut("{id:int}")]
+    public IActionResult Put(int id, Item item)
+    {
+        return NoContent();
+    }
     }
 }
